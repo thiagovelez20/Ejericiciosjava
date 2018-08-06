@@ -1,3 +1,4 @@
 # Retos-Te-cnicos
-hi  Estudiante y Gerentes Tecnologias de la Informaciòn
-Que  se le viene a la cabeza cuando le hablamos de Hypertext Preprocessor?
+hi students and  manager Information Technnology
+that comes to mind when they talk about Hypertext Preprocessor?
+
